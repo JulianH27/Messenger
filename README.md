@@ -1,4 +1,4 @@
-# hello-world
-# hello-julian
+# Prjekt
+# InstantMessenger
 Instant-Messenger
 
